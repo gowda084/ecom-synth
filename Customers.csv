@@ -1,0 +1,32 @@
+customer_id,first_name,last_name,email,phone,address,city,state,country,postal_code,avatar_url,loyalty_points,registration_date,date_of_birth
+1,Emily,Johnson,emily.johnson@email.com,555-0101,123 Oak Street,New York,NY,USA,10001,https://api.dicebear.com/7.x/avataaars/svg?seed=Emily,2450,2022-03-15,1990-05-22
+2,Michael,Chen,michael.chen@email.com,555-0102,456 Maple Avenue,Los Angeles,CA,USA,90001,https://api.dicebear.com/7.x/avataaars/svg?seed=Michael,1890,2021-11-08,1988-09-14
+3,Sarah,Williams,sarah.williams@email.com,555-0103,789 Pine Road,Chicago,IL,USA,60601,https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah,3200,2020-07-22,1992-12-03
+4,David,Martinez,david.martinez@email.com,555-0104,321 Elm Street,Houston,TX,USA,77001,https://api.dicebear.com/7.x/avataaars/svg?seed=David,1560,2023-01-10,1985-03-18
+5,Jessica,Brown,jessica.brown@email.com,555-0105,654 Cedar Lane,Phoenix,AZ,USA,85001,https://api.dicebear.com/7.x/avataaars/svg?seed=Jessica,2780,2022-05-30,1994-08-27
+6,James,Anderson,james.anderson@email.com,555-0106,987 Birch Boulevard,Philadelphia,PA,USA,19101,https://api.dicebear.com/7.x/avataaars/svg?seed=James,1020,2023-08-12,1987-11-09
+7,Amanda,Taylor,amanda.taylor@email.com,555-0107,147 Spruce Drive,San Antonio,TX,USA,78201,https://api.dicebear.com/7.x/avataaars/svg?seed=Amanda,3450,2021-04-05,1991-06-15
+8,Robert,Thomas,robert.thomas@email.com,555-0108,258 Willow Way,San Diego,CA,USA,92101,https://api.dicebear.com/7.x/avataaars/svg?seed=Robert,890,2023-11-20,1989-02-28
+9,Lisa,Hernandez,lisa.hernandez@email.com,555-0109,369 Ash Court,Dallas,TX,USA,75201,https://api.dicebear.com/7.x/avataaars/svg?seed=Lisa,4120,2020-09-18,1993-10-12
+10,Christopher,Moore,christopher.moore@email.com,555-0110,741 Poplar Street,San Jose,CA,USA,95101,https://api.dicebear.com/7.x/avataaars/svg?seed=Christopher,2230,2022-08-25,1986-07-04
+11,Michelle,Martin,michelle.martin@email.com,555-0111,852 Hickory Avenue,Austin,TX,USA,78701,https://api.dicebear.com/7.x/avataaars/svg?seed=Michelle,1890,2023-02-14,1995-01-20
+12,Daniel,Jackson,daniel.jackson@email.com,555-0112,963 Sycamore Road,Jacksonville,FL,USA,32201,https://api.dicebear.com/7.x/avataaars/svg?seed=Daniel,1340,2021-12-03,1984-04-16
+13,Ashley,White,ashley.white@email.com,555-0113,159 Magnolia Lane,Fort Worth,TX,USA,76101,https://api.dicebear.com/7.x/avataaars/svg?seed=Ashley,2670,2022-06-19,1992-09-25
+14,Matthew,Harris,matthew.harris@email.com,555-0114,357 Dogwood Drive,Columbus,OH,USA,43201,https://api.dicebear.com/7.x/avataaars/svg?seed=Matthew,980,2023-09-05,1988-12-08
+15,Nicole,Clark,nicole.clark@email.com,555-0115,468 Redwood Street,Charlotte,NC,USA,28201,https://api.dicebear.com/7.x/avataaars/svg?seed=Nicole,3010,2021-10-11,1991-03-30
+16,Andrew,Lewis,andrew.lewis@email.com,555-0116,579 Cypress Avenue,San Francisco,CA,USA,94101,https://api.dicebear.com/7.x/avataaars/svg?seed=Andrew,1780,2022-11-28,1987-08-17
+17,Stephanie,Robinson,stephanie.robinson@email.com,555-0117,680 Juniper Boulevard,Indianapolis,IN,USA,46201,https://api.dicebear.com/7.x/avataaars/svg?seed=Stephanie,2340,2020-05-14,1994-11-22
+18,Kevin,Walker,kevin.walker@email.com,555-0118,791 Fir Court,Seattle,WA,USA,98101,https://api.dicebear.com/7.x/avataaars/svg?seed=Kevin,1120,2023-04-22,1985-06-05
+19,Rachel,Young,rachel.young@email.com,555-0119,802 Hemlock Way,Denver,CO,USA,80201,https://api.dicebear.com/7.x/avataaars/svg?seed=Rachel,2890,2022-01-07,1993-02-14
+20,Brian,King,brian.king@email.com,555-0120,913 Walnut Road,Washington,DC,USA,20001,https://api.dicebear.com/7.x/avataaars/svg?seed=Brian,1560,2021-07-29,1989-10-31
+21,Lauren,Wright,lauren.wright@email.com,555-0121,124 Chestnut Street,Boston,MA,USA,02101,https://api.dicebear.com/7.x/avataaars/svg?seed=Lauren,3670,2020-12-16,1992-05-19
+22,Ryan,Lopez,ryan.lopez@email.com,555-0122,235 Beech Avenue,El Paso,TX,USA,79901,https://api.dicebear.com/7.x/avataaars/svg?seed=Ryan,890,2023-06-08,1986-01-26
+23,Brittany,Hill,brittany.hill@email.com,555-0123,346 Alder Lane,Detroit,MI,USA,48201,https://api.dicebear.com/7.x/avataaars/svg?seed=Brittany,2450,2022-09-13,1994-07-11
+24,Justin,Scott,justin.scott@email.com,555-0124,457 Cherry Drive,Nashville,TN,USA,37201,https://api.dicebear.com/7.x/avataaars/svg?seed=Justin,1780,2021-03-21,1988-04-02
+25,Samantha,Green,samantha.green@email.com,555-0125,568 Plum Street,Portland,OR,USA,97201,https://api.dicebear.com/7.x/avataaars/svg?seed=Samantha,3120,2020-08-04,1991-09-28
+26,Tyler,Adams,tyler.adams@email.com,555-0126,679 Peach Boulevard,Oklahoma City,OK,USA,73101,https://api.dicebear.com/7.x/avataaars/svg?seed=Tyler,1340,2023-10-17,1987-12-15
+27,Kimberly,Baker,kimberly.baker@email.com,555-0127,780 Apple Court,Las Vegas,NV,USA,89101,https://api.dicebear.com/7.x/avataaars/svg?seed=Kimberly,2560,2022-04-26,1993-03-23
+28,Jonathan,Gonzalez,jonathan.gonzalez@email.com,555-0128,891 Orange Way,Memphis,TN,USA,38101,https://api.dicebear.com/7.x/avataaars/svg?seed=Jonathan,1010,2021-11-30,1985-08-09
+29,Megan,Nelson,megan.nelson@email.com,555-0129,902 Grape Road,Louisville,KY,USA,40201,https://api.dicebear.com/7.x/avataaars/svg?seed=Megan,2890,2020-06-12,1992-01-17
+30,Alexander,Carter,alexander.carter@email.com,555-0130,103 Lemon Street,Baltimore,MD,USA,21201,https://api.dicebear.com/7.x/avataaars/svg?seed=Alexander,1670,2023-07-24,1989-05-06
+

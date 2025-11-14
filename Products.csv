@@ -1,0 +1,32 @@
+product_id,name,category,price,description,stock_quantity,brand,sku,rating,reviews_count
+1,Wireless Bluetooth Headphones,Electronics,129.99,"Premium over-ear headphones with active noise cancellation, 30-hour battery life, and crystal-clear audio quality. Perfect for music lovers and professionals.",150,AudioTech,ATH-WH-001,4.5,1247
+2,Organic Cotton T-Shirt,Clothing,24.99,"Soft, breathable 100% organic cotton t-shirt. Sustainable fashion that's comfortable for everyday wear. Available in multiple colors.",500,EcoWear,EW-TS-001,4.3,892
+3,Stainless Steel Water Bottle,Home & Kitchen,34.99,"Insulated 32oz water bottle keeps drinks cold for 24 hours or hot for 12 hours. BPA-free, leak-proof design with carrying handle.",300,HydratePro,HP-WB-32,4.7,2156
+4,Smart Fitness Watch,Electronics,299.99,"Advanced fitness tracking with heart rate monitor, GPS, sleep tracking, and 50+ workout modes. Water-resistant up to 50m.",85,FitTech,FT-SW-001,4.6,3421
+5,Leather Crossbody Bag,Accessories,89.99,"Genuine leather crossbody bag with adjustable strap. Multiple compartments for organization. Classic design that never goes out of style.",120,StyleCraft,SC-CB-001,4.4,567
+6,Espresso Coffee Maker,Home & Kitchen,199.99,"Professional-grade espresso machine with steam wand for frothing milk. 15-bar pressure pump for perfect espresso every time.",45,CoffeeMaster,CM-EM-001,4.5,1890
+7,Running Shoes - Men's,Footwear,119.99,"Lightweight running shoes with cushioned sole and breathable mesh upper. Designed for comfort and performance on any terrain.",200,RunFast,RF-MS-001,4.6,3124
+8,Wireless Charging Pad,Electronics,29.99,"Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator light.",350,TechCharge,TC-WC-001,4.2,987
+9,Yoga Mat Premium,Sports & Outdoors,49.99,"Extra-thick 6mm yoga mat with non-slip surface. Eco-friendly TPE material. Includes carrying strap.",275,YogaLife,YL-MAT-001,4.5,1456
+10,Designer Sunglasses,Accessories,159.99,"UV400 protection sunglasses with polarized lenses. Lightweight titanium frame. Includes protective case and cleaning cloth.",90,SunShield,SS-SG-001,4.4,723
+11,Portable Bluetooth Speaker,Electronics,79.99,"Waterproof Bluetooth speaker with 360-degree sound. 12-hour battery life. Perfect for outdoor adventures.",180,SoundWave,SW-BS-001,4.5,2103
+12,Denim Jacket - Women's,Clothing,69.99,"Classic denim jacket with modern fit. Pre-washed for comfort. Versatile style for any season.",150,DenimCo,DC-JK-001,4.3,654
+13,Air Purifier for Home,Home & Kitchen,249.99,"HEPA air purifier with 3-stage filtration. Covers rooms up to 500 sq ft. Quiet operation with night mode.",60,AirClean,AC-AP-001,4.6,1876
+14,Smartphone Case with Stand,Accessories,19.99,"Protective phone case with built-in kickstand. Shock-absorbing design. Available for all major phone models.",500,ProtectPro,PP-CS-001,4.1,3421
+15,Protein Powder - Vanilla,Sports & Outdoors,39.99,"Whey protein powder with 25g protein per serving. Low sugar, great taste. Perfect for post-workout recovery.",400,FitFuel,FF-PP-VAN,4.4,2890
+16,LED Desk Lamp,Home & Kitchen,59.99,"Adjustable LED desk lamp with 5 brightness levels and 3 color temperatures. USB charging port included.",220,LightWorks,LW-DL-001,4.5,1234
+17,Backpack - Travel Edition,Accessories,79.99,"Durable travel backpack with laptop compartment and multiple pockets. Water-resistant material. TSA-friendly design.",175,TravelGear,TG-BP-001,4.6,1987
+18,Skincare Set - 3 Piece,Beauty & Personal Care,89.99,"Complete skincare routine: cleanser, toner, and moisturizer. All-natural ingredients. Suitable for all skin types.",120,GlowSkin,GS-SS-001,4.5,1567
+19,Gaming Mouse,Electronics,69.99,"High-precision gaming mouse with RGB lighting. 12,000 DPI sensor. Programmable buttons for competitive gaming.",190,GameTech,GT-GM-001,4.7,2345
+20,Winter Parka - Men's,Clothing,199.99,"Insulated winter parka rated for -20°F. Waterproof and windproof. Multiple pockets and adjustable hood.",95,WarmWear,WW-PK-001,4.6,876
+21,Stand Mixer - Professional,Home & Kitchen,349.99,"5.5-quart stand mixer with 10-speed control. Includes dough hook, whisk, and paddle attachments. Powerful motor for heavy-duty mixing.",40,KitchenPro,KP-SM-001,4.7,1123
+22,Perfume - Signature Scent,Beauty & Personal Care,129.99,"Luxury fragrance with notes of jasmine, vanilla, and sandalwood. Long-lasting formula. Elegant bottle design.",200,ScentLux,SL-PF-001,4.4,987
+23,Wireless Earbuds Pro,Electronics,179.99,"True wireless earbuds with active noise cancellation. 8-hour battery with charging case. Crystal-clear call quality.",250,AudioTech,ATH-WE-001,4.6,3456
+24,High-Waisted Leggings,Clothing,39.99,"Compression leggings with high-waisted design. Moisture-wicking fabric. Perfect for workouts or casual wear.",320,ActiveWear,AW-LG-001,4.5,2134
+25,Robot Vacuum Cleaner,Home & Kitchen,299.99,"Smart robot vacuum with app control and mapping. Self-emptying base. Works on carpets and hard floors.",55,CleanBot,CB-RV-001,4.6,1876
+26,Leather Wallet - RFID Blocking,Accessories,49.99,"Genuine leather wallet with RFID blocking technology. Multiple card slots and cash compartment. Slim design.",280,SecureStyle,SS-WL-001,4.4,1234
+27,Vitamin C Serum,Beauty & Personal Care,34.99,"Brightening vitamin C serum with hyaluronic acid. Reduces dark spots and evens skin tone. Dermatologist tested.",350,GlowSkin,GS-VC-001,4.5,2345
+28,4K Ultra HD TV - 55 inch,Electronics,699.99,"55-inch 4K Smart TV with HDR10. Voice control enabled. Multiple streaming apps pre-installed.",30,ViewTech,VT-TV-55,4.7,987
+29,Champagne Flutes Set - 6 Piece,Home & Kitchen,79.99,"Crystal champagne flutes with elegant design. Lead-free crystal. Perfect for special occasions.",120,LuxuryGlass,LG-CF-001,4.5,567
+30,Baseball Cap - Adjustable,Accessories,24.99,"Classic baseball cap with adjustable strap. Breathable fabric. Embroidered logo. One size fits all.",450,CasualCap,CC-BC-001,4.2,1890
+
